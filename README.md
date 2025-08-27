@@ -1,4 +1,4 @@
-```markdown
+
 # Proyecto: Evaluación de Rendimiento de Multiplicación de Matrices con OpenMP
 
 ## 📌 Descripción
